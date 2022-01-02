@@ -1,0 +1,42 @@
+p, li {
+    color:rgb(41, 41, 41);
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+h1 {
+    color:rgb(255, 128, 145);
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+}
+
+h2 {
+    color:rgb(255, 128, 145);
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+}
+
+body {
+    width: 900px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+button {
+    display: block;
+    margin: 0 auto;
+}
+html {
+    background-color: lavender;
+    font-size: 10px;
+    font-family: "Rubik", sans-serif;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
